@@ -1,0 +1,23 @@
+.product {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 3rem;
+}
+
+.btn{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 375px) {
+    .product{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .product{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

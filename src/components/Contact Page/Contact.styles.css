@@ -1,0 +1,61 @@
+.contact {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 200px;
+    background-color: #865307;
+    padding: 3rem;
+}
+
+.contact__intro{
+    margin-left: 5rem;
+}
+
+.contact__intro h2{
+    font-size: 3rem;
+    color: #f1f1f1;
+}
+
+.contact__intro p {
+    color: #f1f1f1;
+    font-style: italic;
+}
+
+.tel {
+    display: flex;
+    margin-top: 3rem;
+}
+
+.tel a {
+    margin-left: 1rem;
+    text-decoration: none !important;
+    color: white;
+}
+
+.location {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.location p {
+    margin-left: 1rem;
+}
+
+.icon {
+    color: #e89c2b;
+}
+
+@media screen and (max-width: 375px) {
+    .contact {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .contact__intro {
+        margin-bottom: 2rem;
+    }
+}

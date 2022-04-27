@@ -1,0 +1,21 @@
+.product-list {
+    margin-bottom: 4rem;
+}
+
+.product-list img {
+    border-radius: 0 2rem 0 2rem;
+}
+
+.label-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.label-container p {
+  position: relative;
+  right: 4rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  /* color: #865307; */
+}

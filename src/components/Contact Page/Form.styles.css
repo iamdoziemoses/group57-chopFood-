@@ -1,0 +1,22 @@
+label {
+    color: #f1f1f1;
+    font-weight: bold;
+}
+
+.form {
+    margin-bottom: 2rem;
+}
+
+.myform{
+    display: flex;
+}
+
+.form-email{
+    margin-left: 1rem;
+}
+
+.form input{
+    margin-top: 1rem;
+    padding: 0.8rem;
+    outline: none;
+}
