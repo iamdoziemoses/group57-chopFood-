@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/group57-chopFood-/static/css/main.2496127f.css",
+    "main.js": "/group57-chopFood-/static/js/main.48b6b307.js",
+    "static/js/787.cb923ca4.chunk.js": "/group57-chopFood-/static/js/787.cb923ca4.chunk.js",
+    "static/media/sweet-food.jpg": "/group57-chopFood-/static/media/sweet-food.77de8ff7f25212edf383.jpg",
+    "static/media/fa-solid-900.svg": "/group57-chopFood-/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/group57-chopFood-/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/chopfood-okasi.jpg": "/group57-chopFood-/static/media/chopfood-okasi.41b20a8214c7faae45f9.jpg",
+    "static/media/fa-solid-900.eot": "/group57-chopFood-/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/group57-chopFood-/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/jellofrice.jpg": "/group57-chopFood-/static/media/jellofrice.084f6b1fd9be85682bc4.jpg",
+    "static/media/chopfood-coconut-rice.jpg": "/group57-chopFood-/static/media/chopfood-coconut-rice.b8711a172a1c507420d3.jpg",
+    "static/media/fa-regular-400.svg": "/group57-chopFood-/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/group57-chopFood-/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/group57-chopFood-/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/chopfood-beans.jpg": "/group57-chopFood-/static/media/chopfood-beans.957dac6958fdfccca203.jpg",
+    "static/media/fa-solid-900.woff": "/group57-chopFood-/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/group57-chopFood-/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/group57-chopFood-/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/group57-chopFood-/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/chopfood-eguisi-soup.webp": "/group57-chopFood-/static/media/chopfood-eguisi-soup.13fc83dfdbba171b6ee5.webp",
+    "static/media/fa-regular-400.eot": "/group57-chopFood-/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/group57-chopFood-/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/chopfood.jpeg": "/group57-chopFood-/static/media/chopfood.b31724b2aa64fb1109d2.jpeg",
+    "static/media/chopfood-egg__sauce.webp": "/group57-chopFood-/static/media/chopfood-egg__sauce.79612c52c2bd54ab3dc8.webp",
+    "static/media/fa-regular-400.woff": "/group57-chopFood-/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/group57-chopFood-/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/group57-chopFood-/index.html",
+    "main.2496127f.css.map": "/group57-chopFood-/static/css/main.2496127f.css.map",
+    "main.48b6b307.js.map": "/group57-chopFood-/static/js/main.48b6b307.js.map",
+    "787.cb923ca4.chunk.js.map": "/group57-chopFood-/static/js/787.cb923ca4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2496127f.css",
+    "static/js/main.48b6b307.js"
+  ]
+}
