@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/group57-chopFood-/static/css/main.2496127f.css",
-    "main.js": "/group57-chopFood-/static/js/main.48b6b307.js",
+    "main.css": "/group57-chopFood-/static/css/main.494a6694.css",
+    "main.js": "/group57-chopFood-/static/js/main.7c944fb0.js",
     "static/js/787.cb923ca4.chunk.js": "/group57-chopFood-/static/js/787.cb923ca4.chunk.js",
     "static/media/sweet-food.jpg": "/group57-chopFood-/static/media/sweet-food.77de8ff7f25212edf383.jpg",
     "static/media/fa-solid-900.svg": "/group57-chopFood-/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -27,12 +27,12 @@
     "static/media/fa-regular-400.woff": "/group57-chopFood-/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/group57-chopFood-/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/group57-chopFood-/index.html",
-    "main.2496127f.css.map": "/group57-chopFood-/static/css/main.2496127f.css.map",
-    "main.48b6b307.js.map": "/group57-chopFood-/static/js/main.48b6b307.js.map",
+    "main.494a6694.css.map": "/group57-chopFood-/static/css/main.494a6694.css.map",
+    "main.7c944fb0.js.map": "/group57-chopFood-/static/js/main.7c944fb0.js.map",
     "787.cb923ca4.chunk.js.map": "/group57-chopFood-/static/js/787.cb923ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2496127f.css",
-    "static/js/main.48b6b307.js"
+    "static/css/main.494a6694.css",
+    "static/js/main.7c944fb0.js"
   ]
 }
