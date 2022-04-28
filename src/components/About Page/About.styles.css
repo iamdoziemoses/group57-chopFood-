@@ -122,9 +122,6 @@
     
     .about__intro .about__description{
         font-size: 1.3rem;
-        width: 20rem;
-        margin-left: -6rem;
-        text-align: justify;
     }
 
     .about__our-story{
@@ -137,12 +134,14 @@
 
     .offer__section {
         grid-template-columns: repeat(1, 1fr);
+        padding-left: 0;
     }
 }
 
 @media screen and (max-width: 768px){
     .about__our-story{
         grid-template-columns: repeat(1, 1fr);
+        padding-left: 2rem;
     }
 
     .about__our-storyImg img{

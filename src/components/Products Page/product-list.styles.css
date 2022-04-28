@@ -19,3 +19,9 @@
   font-size: 1.5rem;
   /* color: #865307; */
 }
+
+@media screen and (max-width: 375px) {
+    .product-list img {
+        max-width: 100%;
+    }
+}

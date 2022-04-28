@@ -1,7 +1,7 @@
 .contact {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     background-color: #865307;
     padding: 3rem;
 }
@@ -47,6 +47,10 @@
 @media screen and (max-width: 375px) {
     .contact {
         grid-template-columns: repeat(1, 1fr);
+    }
+
+    .contact__intro{
+        margin-left: 0;
     }
 }
 

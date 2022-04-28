@@ -20,3 +20,9 @@ label {
     padding: 0.8rem;
     outline: none;
 }
+
+@media screen and (max-width: 375px){
+    .myform{
+        flex-direction: column;
+    }
+}

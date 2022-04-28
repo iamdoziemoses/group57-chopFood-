@@ -8,9 +8,8 @@ const HomePage = () => {
         <div>
         <section className='about'>
             <div className='about__intro'>
-                <h1 className='about__title'>No 1 Place to Chop Food</h1>
-                <p className='about__description'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-                    totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architectoeaque ipsa quae ab illo inventore.</p>
+                <h1 className='about__title'>Chop Arena</h1>
+                <p className='about__description'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,</p>
             </div>
 
             <div className='about__our-story'>
